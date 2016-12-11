@@ -1,0 +1,669 @@
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 265.91
+Finalizing graph.
+Finalizing graph. Finished in 98.2906
+Final Ingress (second): 364.201
+#vertices: 23802946 #edges:299999712
+Updates: 72141854
+----------------------------------------------------------
+Final Runtime (seconds):   64.9581
+Updates executed: 72141854
+Update Rate (updates/second): 1.11059e+06
+Total rank: 2.09671e+07
+Total rank: 2.09671e+07
+Total rank: 2.09671e+07
+Total rank: 2.09671e+07
+Total rank: 2.09671e+07
+Total rank: 2.09671e+07
+Total rank: 2.09671e+07
+Total rank: 2.09671e+07
+Total rank: 2.09671e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 266.965
+Finalizing graph.
+Finalizing graph. Finished in 95.2557
+Final Ingress (second): 362.221
+#vertices: 23802946 #edges:299999712
+Updates: 71938812
+----------------------------------------------------------
+Final Runtime (seconds):   60.1094
+Updates executed: 71938812
+Update Rate (updates/second): 1.1968e+06
+Total rank: 2.09993e+07
+Total rank: 2.09993e+07
+Total rank: 2.09993e+07
+Total rank: 2.09993e+07
+Total rank: 2.09993e+07
+Total rank: 2.09993e+07
+Total rank: 2.09993e+07
+Total rank: 2.09993e+07
+Total rank: 2.09993e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 265.895
+Finalizing graph.
+Finalizing graph. Finished in 90.9621
+Final Ingress (second): 356.857
+#vertices: 23802946 #edges:299999712
+Updates: 71890060
+----------------------------------------------------------
+Final Runtime (seconds):   53.8091
+Updates executed: 71890060
+Update Rate (updates/second): 1.33602e+06
+Total rank: 2.1028e+07
+Total rank: 2.1028e+07
+Total rank: 2.1028e+07
+Total rank: 2.1028e+07
+Total rank: 2.1028e+07
+Total rank: 2.1028e+07
+Total rank: 2.1028e+07
+Total rank: 2.1028e+07
+Total rank: 2.1028e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 265.145
+Finalizing graph.
+Finalizing graph. Finished in 87.7211
+Final Ingress (second): 352.866
+#vertices: 23802946 #edges:299999712
+Updates: 71853368
+----------------------------------------------------------
+Final Runtime (seconds):   51.3023
+Updates executed: 71853368
+Update Rate (updates/second): 1.40059e+06
+Total rank: 2.10452e+07
+Total rank: 2.10452e+07
+Total rank: 2.10452e+07
+Total rank: 2.10452e+07
+Total rank: 2.10452e+07
+Total rank: 2.10452e+07
+Total rank: 2.10452e+07
+Total rank: 2.10452e+07
+Total rank: 2.10452e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 267.585
+Finalizing graph.
+Finalizing graph. Finished in 83.3787
+Final Ingress (second): 350.963
+#vertices: 23802946 #edges:299999712
+Updates: 71839020
+----------------------------------------------------------
+Final Runtime (seconds):   52.2015
+Updates executed: 71839020
+Update Rate (updates/second): 1.37619e+06
+Total rank: 2.10514e+07
+Total rank: 2.10514e+07
+Total rank: 2.10514e+07
+Total rank: 2.10514e+07
+Total rank: 2.10514e+07
+Total rank: 2.10514e+07
+Total rank: 2.10514e+07
+Total rank: 2.10514e+07
+Total rank: 2.10514e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 265.603
+Finalizing graph.
+Finalizing graph. Finished in 79.2417
+Final Ingress (second): 344.845
+#vertices: 23802946 #edges:299999712
+Updates: 71831949
+----------------------------------------------------------
+Final Runtime (seconds):   52.8451
+Updates executed: 71831949
+Update Rate (updates/second): 1.35929e+06
+Total rank: 2.1055e+07
+Total rank: 2.1055e+07
+Total rank: 2.1055e+07
+Total rank: 2.1055e+07
+Total rank: 2.1055e+07
+Total rank: 2.1055e+07
+Total rank: 2.1055e+07
+Total rank: 2.1055e+07
+Total rank: 2.1055e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 265.93
+Finalizing graph.
+Finalizing graph. Finished in 76.8651
+Final Ingress (second): 342.795
+#vertices: 23802946 #edges:299999712
+Updates: 71829661
+----------------------------------------------------------
+Final Runtime (seconds):   53.023
+Updates executed: 71829661
+Update Rate (updates/second): 1.35469e+06
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 265.055
+Finalizing graph.
+Finalizing graph. Finished in 71.3495
+Final Ingress (second): 336.405
+#vertices: 23802946 #edges:299999712
+Updates: 71829661
+----------------------------------------------------------
+Final Runtime (seconds):   56.8193
+Updates executed: 71829661
+Update Rate (updates/second): 1.26418e+06
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 270.501
+Finalizing graph.
+Finalizing graph. Finished in 68.7398
+Final Ingress (second): 339.24
+#vertices: 23802946 #edges:299999712
+Updates: 71829661
+----------------------------------------------------------
+Final Runtime (seconds):   57.5583
+Updates executed: 71829661
+Update Rate (updates/second): 1.24795e+06
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 265.145
+Finalizing graph.
+Finalizing graph. Finished in 71.5106
+Final Ingress (second): 336.656
+#vertices: 23802946 #edges:299999712
+Updates: 71829661
+----------------------------------------------------------
+Final Runtime (seconds):   62.7369
+Updates executed: 71829661
+Update Rate (updates/second): 1.14494e+06
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 263.209
+Finalizing graph.
+Finalizing graph. Finished in 71.2835
+Final Ingress (second): 334.492
+#vertices: 23802946 #edges:299999712
+Updates: 71829661
+----------------------------------------------------------
+Final Runtime (seconds):   64.2894
+Updates executed: 71829661
+Update Rate (updates/second): 1.11729e+06
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+Total rank: 2.10555e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 844.498
+Finalizing graph.
+Finalizing graph. Finished in 1123.35
+Final Ingress (second): 1967.85
+#vertices: 33480333 #edges:899999702
+Updates: 281609605
+----------------------------------------------------------
+Final Runtime (seconds):   132.536
+Updates executed: 281609605
+Update Rate (updates/second): 2.12478e+06
+Total rank: 2.85177e+07
+Total rank: 2.85177e+07
+Total rank: 2.85177e+07
+Total rank: 2.85177e+07
+Total rank: 2.85177e+07
+Total rank: 2.85177e+07
+Total rank: 2.85177e+07
+Total rank: 2.85177e+07
+Total rank: 2.85177e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 845.441
+Finalizing graph.
+Finalizing graph. Finished in 768.712
+Final Ingress (second): 1614.15
+#vertices: 33480333 #edges:899999702
+Updates: 281304547
+----------------------------------------------------------
+Final Runtime (seconds):   129.547
+Updates executed: 281304547
+Update Rate (updates/second): 2.17145e+06
+Total rank: 2.85665e+07
+Total rank: 2.85665e+07
+Total rank: 2.85665e+07
+Total rank: 2.85665e+07
+Total rank: 2.85665e+07
+Total rank: 2.85665e+07
+Total rank: 2.85665e+07
+Total rank: 2.85665e+07
+Total rank: 2.85665e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 844.344
+Finalizing graph.
+Finalizing graph. Finished in 696.438
+Final Ingress (second): 1540.78
+#vertices: 33480333 #edges:899999702
+Updates: 281100685
+----------------------------------------------------------
+Final Runtime (seconds):   126.921
+Updates executed: 281100685
+Update Rate (updates/second): 2.21477e+06
+Total rank: 2.85975e+07
+Total rank: 2.85975e+07
+Total rank: 2.85975e+07
+Total rank: 2.85975e+07
+Total rank: 2.85975e+07
+Total rank: 2.85975e+07
+Total rank: 2.85975e+07
+Total rank: 2.85975e+07
+Total rank: 2.85975e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 840.996
+Finalizing graph.
+Finalizing graph. Finished in 662.846
+Final Ingress (second): 1503.84
+#vertices: 33480333 #edges:899999702
+Updates: 280894091
+----------------------------------------------------------
+Final Runtime (seconds):   124.891
+Updates executed: 280894091
+Update Rate (updates/second): 2.24911e+06
+Total rank: 2.86172e+07
+Total rank: 2.86172e+07
+Total rank: 2.86172e+07
+Total rank: 2.86172e+07
+Total rank: 2.86172e+07
+Total rank: 2.86172e+07
+Total rank: 2.86172e+07
+Total rank: 2.86172e+07
+Total rank: 2.86172e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 860.576
+Finalizing graph.
+Finalizing graph. Finished in 644.966
+Final Ingress (second): 1505.54
+#vertices: 33480333 #edges:899999702
+Updates: 280816479
+----------------------------------------------------------
+Final Runtime (seconds):   117.111
+Updates executed: 280816479
+Update Rate (updates/second): 2.39786e+06
+Total rank: 2.86239e+07
+Total rank: 2.86239e+07
+Total rank: 2.86239e+07
+Total rank: 2.86239e+07
+Total rank: 2.86239e+07
+Total rank: 2.86239e+07
+Total rank: 2.86239e+07
+Total rank: 2.86239e+07
+Total rank: 2.86239e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 852.835
+Finalizing graph.
+Finalizing graph. Finished in 628.441
+Final Ingress (second): 1481.28
+#vertices: 33480333 #edges:899999702
+Updates: 280729723
+----------------------------------------------------------
+Final Runtime (seconds):   118.618
+Updates executed: 280729723
+Update Rate (updates/second): 2.36666e+06
+Total rank: 2.86282e+07
+Total rank: 2.86282e+07
+Total rank: 2.86282e+07
+Total rank: 2.86282e+07
+Total rank: 2.86282e+07
+Total rank: 2.86282e+07
+Total rank: 2.86282e+07
+Total rank: 2.86282e+07
+Total rank: 2.86282e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 846.667
+Finalizing graph.
+Finalizing graph. Finished in 617.474
+Final Ingress (second): 1464.14
+#vertices: 33480333 #edges:899999702
+Updates: 280708243
+----------------------------------------------------------
+Final Runtime (seconds):   121.762
+Updates executed: 280708243
+Update Rate (updates/second): 2.30538e+06
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 848.608
+Finalizing graph.
+Finalizing graph. Finished in 588.263
+Final Ingress (second): 1436.87
+#vertices: 33480333 #edges:899999702
+Updates: 280708243
+----------------------------------------------------------
+Final Runtime (seconds):   125.071
+Updates executed: 280708243
+Update Rate (updates/second): 2.2444e+06
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 845.638
+Finalizing graph.
+Finalizing graph. Finished in 572.045
+Final Ingress (second): 1417.68
+#vertices: 33480333 #edges:899999702
+Updates: 280708243
+----------------------------------------------------------
+Final Runtime (seconds):   130.697
+Updates executed: 280708243
+Update Rate (updates/second): 2.14778e+06
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 846.057
+Finalizing graph.
+Finalizing graph. Finished in 547.036
+Final Ingress (second): 1393.09
+#vertices: 33480333 #edges:899999702
+Updates: 280708243
+----------------------------------------------------------
+Final Runtime (seconds):   136.633
+Updates executed: 280708243
+Update Rate (updates/second): 2.05447e+06
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 842.525
+Finalizing graph.
+Finalizing graph. Finished in 573.514
+Final Ingress (second): 1416.04
+#vertices: 33480333 #edges:899999702
+Updates: 280708243
+----------------------------------------------------------
+Final Runtime (seconds):   136.971
+Updates executed: 280708243
+Update Rate (updates/second): 2.0494e+06
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+Total rank: 2.86294e+07
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 1518.01
+Finalizing graph.
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 1548.81
+Finalizing graph.
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 1512.44
+Finalizing graph.
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 1555.04
+Finalizing graph.
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 1543.22
+Finalizing graph.
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 1540.63
+Finalizing graph.
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 1546.79
+Finalizing graph.
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 1569.03
+Finalizing graph.
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 1539.89
+Finalizing graph.
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap
+Loading graph. Finished in 1528.69
+Finalizing graph.
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+Loading graph.
+Loading graph in format: snap

@@ -1,0 +1,25 @@
+Pointers
+------------
+0x5dab7a
+0x6336b5
+0x5dcca0
+0x7ff4417ed182
+0x7ff43f2b930d
+Raw
+------------
+release/toolkits/graph_analytics/pagerank(_Z18__print_back_tracev+0xaa) [0x5dab7a]
+release/toolkits/graph_analytics/pagerank(_ZN8graphlab7dc_impl11dc_tcp_comm14accept_handlerEv+0x995) [0x6336b5]
+release/toolkits/graph_analytics/pagerank(_ZN8graphlab6thread6invokeEPv+0x30) [0x5dcca0]
+/lib/x86_64-linux-gnu/libpthread.so.0(+0x8182) [0x7ff4417ed182]
+/lib/x86_64-linux-gnu/libc.so.6(clone+0x6d) [0x7ff43f2b930d]
+
+Demangled
+------------
+__print_back_trace()
+graphlab::dc_impl::dc_tcp_comm::accept_handler()
+graphlab::thread::invoke(void*)
+/lib/x86_64-linux-gnu/libpthread.so.0(+0x8182)
+/lib/x86_64-linux-gnu/libc.so.6(clone+0x6d)
+-------------------------------------------------------
+
+
